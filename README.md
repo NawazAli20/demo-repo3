@@ -3,7 +3,7 @@ Introduction to git and gitHub
 
 ## Heading 2 
 *This line will be italic*
-** This line will be bold
+**This line will be bold
 
 ### How to add link 
 
